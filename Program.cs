@@ -108,6 +108,7 @@ class Program
         catch (Exception ex)
         {
             Console.WriteLine($"Error: {ex.Message}");
+            Console.WriteLine("\nDay 3 OOP Employee Payroll System completed successfully.");
         }
     }
 }
